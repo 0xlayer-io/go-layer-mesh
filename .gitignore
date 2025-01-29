@@ -1,0 +1,6 @@
+nodes
+fly.toml
+fly-secret.sh
+Dockerfile
+
+.DS_Store
