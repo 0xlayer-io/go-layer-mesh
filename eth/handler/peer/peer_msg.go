@@ -3,7 +3,7 @@ package peer
 import (
 	"0xlayer/go-layer-mesh/eth/message"
 	"0xlayer/go-layer-mesh/eth/message/packet"
-	"0xlayer/go-layer-mesh/eth/utils"
+	"0xlayer/go-layer-mesh/utils"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/types"

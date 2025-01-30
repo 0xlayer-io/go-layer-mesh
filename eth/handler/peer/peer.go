@@ -5,10 +5,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"0xlayer/go-layer-mesh/eth/utils/hashmap"
 	"0xlayer/go-layer-mesh/p2p"
 	"0xlayer/go-layer-mesh/p2p/enode"
 	"0xlayer/go-layer-mesh/utils/gopool"
+	"0xlayer/go-layer-mesh/utils/hashmap"
 	"0xlayer/go-layer-mesh/utils/syncmap"
 
 	"github.com/ethereum/go-ethereum/common"
